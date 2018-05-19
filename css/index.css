@@ -2,8 +2,7 @@
     /*width: 100%;*/
     min-width: 300px;
     max-width: 640px;
-    height: 1000px;
-    background-color: red;
+    height: 350px;
     margin: 0 auto;
 }
 .jd_header{
@@ -76,16 +75,16 @@
     min-width: 300px;
     max-width: 640px;
     margin: 0 auto;
-    height: 49vw;
+    height:20vw;
 }
 .jd_banner ul:first-child{
-    width: 800%;
+    width: 1000%;
     left: 0;
     top: 0;
     position: absolute;
 }
 .jd_banner ul:first-child li{
-    width: 12.5%;
+    width: 10%;
     float: left;
 }
 .jd_banner ul:first-child li img{
